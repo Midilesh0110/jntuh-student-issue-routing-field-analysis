@@ -1,11 +1,5 @@
-# JNTUH Student Issue Routing — Field Workflow Analysis
+Student Issue Routing — Field Workflow Analysis
 
-**Round 2 field intelligence synopsis for HKAIVERSE**  
-**Context:** JNTUH College of Engineering, Hyderabad (JNTUH UCES)  
-**Author:** Midilesh Vardhan  
-**Date:** 17 September 2026
-
-> This repository is an analysis, not a production system. It contains no student names, roll numbers, marks, fee records, screenshots, or other personal data.
 
 ## Problem
 
