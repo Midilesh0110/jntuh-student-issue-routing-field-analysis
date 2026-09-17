@@ -198,9 +198,11 @@ A practical pilot would compare a small anonymised baseline sample with a small 
 
 ## AI Usage
 
-AI assistance was used to help structure this synopsis, improve clarity, draft Mermaid workflow diagrams, and check the arithmetic. The workflow choice and technical context came from my own project experience with a Flask-based Intelligent Request Router and my JNTUH UCES context.
+General-purpose AI assistants were used to a limited extent as development and writing aids. Their uses included brainstorming alternative workflow framings, improving the clarity of the README, suggesting headings and Mermaid diagram structure, checking arithmetic, and helping reason through possible validation and debugging steps. They were used in the same way a developer might use documentation, a code assistant, or a second reviewer—not as a substitute for observing the problem or making the final judgement.
 
-AI was **not** used to invent measured campus data. All unverified operational figures are explicitly labeled as estimates or assumptions. No personal student data was uploaded or included.
+The author remained responsible for selecting the workflow, checking the technical claims against the Intelligent Request Router project, separating measured data from estimates, deciding what could and could not be verified, and defining the human-review boundary. AI assistance was not used to invent measured campus data, staff interviews, or institutional performance figures. All unverified operational figures are explicitly labeled as estimates or assumptions. No personal student data was uploaded or included.
+
+The proposed AI features are also intentionally narrow: category suggestions, extraction of non-sensitive routing fields, and summaries for staff review. The system should not make final decisions about sensitive, disputed, or high-impact requests without human judgement.
 
 ## Scope Boundary
 
