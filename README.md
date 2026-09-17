@@ -21,6 +21,10 @@ I selected this workflow because I have built an **Intelligent Request Router**,
 
 The field context is JNTUH UCES. I did not access institutional databases or collect student records for this analysis. I used the workflow pattern from my project experience and treated any campus-wide operational volume as an estimate rather than as measured institutional data.
 
+**People spoken with:** I did not conduct a formal staff interview for this synopsis. I am stating that limitation explicitly rather than presenting an assumption as an interview finding. The next validation step would be a short conversation with one staff member who receives or routes student requests, followed by an anonymised sample review.
+
+**What I observed:** While developing the Intelligent Request Router, I observed the recurring product and workflow requirements around structured issue intake, category interpretation, department mapping, and status visibility. Those are observations from my own prototype work, not measurements of a JNTUH office.
+
 ### What was verified
 
 - The request-routing pattern is technically feasible: I implemented a browser-accessible Flask workflow for structured intake and department-based routing.
